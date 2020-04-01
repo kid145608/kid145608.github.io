@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kid145608.github.io</id>
     <title>1812</title>
-    <updated>2020-04-01T10:11:17.789Z</updated>
+    <updated>2020-04-01T13:48:43.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kid145608.github.io"/>
     <link rel="self" href="https://kid145608.github.io/atom.xml"/>
@@ -11,12 +11,13 @@
     <icon>https://kid145608.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 1812</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://kid145608.github.io/post/test/</id>
-        <link href="https://kid145608.github.io/post/test/">
+        <title type="html"><![CDATA[2020年4月1日]]></title>
+        <id>https://kid145608.github.io/post/2020-nian-4-yue-1-ri/</id>
+        <link href="https://kid145608.github.io/post/2020-nian-4-yue-1-ri/">
         </link>
-        <updated>2020-04-01T09:58:49.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
+        <updated>2020-04-01T13:47:49.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://kid145608.github.io/post-images/1585748874126.jpg" alt="" loading="lazy"><br>
+<img src="https://kid145608.github.io/post-images/1585748879131.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
