@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kid145608.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-01T07:35:22.052Z</updated>
+    <title>1812</title>
+    <updated>2020-04-01T07:40:20.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kid145608.github.io"/>
     <link rel="self" href="https://kid145608.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>We can fly</subtitle>
     <logo>https://kid145608.github.io/images/avatar.png</logo>
     <icon>https://kid145608.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 1812</rights>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://kid145608.github.io/post/1/</id>
+        <link href="https://kid145608.github.io/post/1/">
+        </link>
+        <updated>2020-04-01T07:38:46.000Z</updated>
+        <content type="html"><![CDATA[<p>2</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://kid145608.github.io/post/hello-gridea/</id>
