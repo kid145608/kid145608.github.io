@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kid145608.github.io</id>
     <title>1812</title>
-    <updated>2020-04-03T02:20:20.629Z</updated>
+    <updated>2020-04-03T02:37:27.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kid145608.github.io"/>
     <link rel="self" href="https://kid145608.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://kid145608.github.io/images/avatar.png</logo>
     <icon>https://kid145608.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 1812</rights>
+    <entry>
+        <title type="html"><![CDATA[一些问题...]]></title>
+        <id>https://kid145608.github.io/post/yi-xie-wen-ti/</id>
+        <link href="https://kid145608.github.io/post/yi-xie-wen-ti/">
+        </link>
+        <updated>2020-04-03T02:22:41.000Z</updated>
+        <content type="html"><![CDATA[<p>Q:为什么我在QQ直接点击网站打不开？<br>
+A:由于这是一个新建网站，也并非QQ官方认证网站，所以QQ安全系统会判定为不安全网站，并自动拦截。<br>
+如何解决:只需要复制网站到浏览器就可以正常打开了！</p>
+<p>Q:为什么有时候打开网站或者点击网站内链接显示错误？<br>
+A:这是因为网站服务器的问题或者你们的电教委员正在一堆代码里七搞八搞。<br>
+如何解决:过几分钟再重新进入或者QQ告诉我！（如果你在电脑上使用360浏览器则可以在下方状态栏尝试清除缓存，如下图）<br>
+<img src="https://kid145608.github.io/post-images/1585881185027.png" alt="" loading="lazy"></p>
+<p>Q:我可不可以编辑这个网站？<br>
+A:暂时不可以。<br>
+如何解决:有好的建议或者需要发布的信息可以在QQ里告诉我，我会努力实现！</p>
+<p>（未完待续）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网站简介]]></title>
         <id>https://kid145608.github.io/post/wang-zhan-jian-jie/</id>
