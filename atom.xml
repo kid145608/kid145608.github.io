@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kid145608.github.io</id>
     <title>1812</title>
-    <updated>2020-04-03T01:40:07.589Z</updated>
+    <updated>2020-04-03T02:17:58.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kid145608.github.io"/>
     <link rel="self" href="https://kid145608.github.io/atom.xml"/>
@@ -28,7 +28,7 @@
 </blockquote>
 <p>额...就目前来说，这个网站的功能还比较简单，暂时只提供在网站上发布和评论消息的功能，而且好像只有我一个人能编辑这些消息和评论（<a href="https://github.com/join?source=header-home">你可以去Github上注册一个账号来评论消息</a>）</p>
 <blockquote>
-<p>我当然不会说这是因为我不会写html5+的代码的原因！</p>
+<p>我当然不会说这是因为我不会写html5的代码的原因！</p>
 </blockquote>
 <p>以下算是此后的一些目标吧：<br>
 -开放编辑网站<br>
@@ -43,9 +43,6 @@
 <p>好了，差不多了，白白</p>
 <p>编辑：灰常腻害的电教委员<br>
 制作：灰常腻害的电教委员</p>
-<blockquote>
-<p>不要脸！！</p>
-</blockquote>
 ]]></content>
     </entry>
     <entry>
