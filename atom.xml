@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kid145608.github.io</id>
     <title>1812</title>
-    <updated>2020-04-04T02:56:22.815Z</updated>
+    <updated>2020-04-05T13:24:03.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kid145608.github.io"/>
     <link rel="self" href="https://kid145608.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://kid145608.github.io/images/avatar.png</logo>
     <icon>https://kid145608.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 1812</rights>
+    <entry>
+        <title type="html"><![CDATA[评论教程]]></title>
+        <id>https://kid145608.github.io/post/ping-lun-jiao-cheng/</id>
+        <link href="https://kid145608.github.io/post/ping-lun-jiao-cheng/">
+        </link>
+        <updated>2020-04-05T12:33:04.000Z</updated>
+        <content type="html"><![CDATA[<p>吼吼吼！网站大家都知道了还能不教大家怎么评论吗？<br>
+来来来，马上教你<br>
+#正文部分<br>
+##一、注册Github<br>
+Github作为网站的服务器，评论功能自然也要用到Github，于是你就需要<a href="https://github.com">注册一个Github注册一个Github</a><br>
+###1.首先进入网站点击“sign up&quot;来进行注册<br>
+<img src="https://kid145608.github.io/post-images/1586090650704.png" alt="" loading="lazy"></p>
+<p>###2.进入到以下界面，填写信息后进行人机验证（邮箱推荐使用qq邮箱，比较方便）</p>
+<p><img src="https://kid145608.github.io/post-images/1586090720325.png" alt="" loading="lazy"><br>
+有时填写用户名是会出现这样的情况</p>
+<p><img src="https://kid145608.github.io/post-images/1586091279506.png" alt="" loading="lazy"><br>
+说明用户名不可用（通常是用户名重复导致的）</p>
+<p>###3.填写完信息之后就点击按键完成注册</p>
+<p><img src="https://kid145608.github.io/post-images/1586091666857.png" alt="" loading="lazy"><br>
+之后会进入这个网站，选择左边的选项</p>
+<p><img src="https://kid145608.github.io/post-images/1586091977021.png" alt="" loading="lazy"><br>
+并且会在邮箱接到一封验证信息，点击确认</p>
+<p><img src="https://kid145608.github.io/post-images/1586092078778.png" alt="" loading="lazy"><br>
+之后就会弹出登陆界面了</p>
+<p>另外进入之后会自动弹出一个界面，此处翻到网页底部跳过即可<br>
+###4.注册完成后就可以关闭网站，<a href="https://kid145608.github.io">进入1812的网站</a></p>
+<p>随意点开一篇文章后翻到底部评论点击登录就可以评论了！</p>
+<figure data-type="image" tabindex="1"><img src="https://kid145608.github.io/post-images/1586093034766.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[默哀]]></title>
         <id>https://kid145608.github.io/post/mo-ai/</id>
